@@ -5,7 +5,7 @@ This README.md summarizes the resources that are used for the AWS Cloud Practiti
 ## Resources used
 
 1. https://www.aws.training/ (Portal to access Webex Training)
-2. https://online.vitalsource.com/#/ (Training material - e.g. lecture notes; Only available to view online - cannot download as PDF)
+2. https://online.vitalsource.com/#/ (Training material - e.g. lecture notes; Only available to view online for 2 years - cannot download as PDF)
 3. https://aws.qwiklabs.com/ (Lab exercises)
 4. https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials (Additional FREE training course on AWS Cloud Practitioner)
 5. https://amazon.qwiklabs.com/ (Additional Lab exercises)

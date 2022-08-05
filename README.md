@@ -18,4 +18,4 @@ If in future, there are intentions to go for this professional certification, ca
 2. Go through the additional free training course on AWS Cloud Practitioner in link 4 (see above)
 3. Do some labs (see link 3 and link 5)
 4. Do some udemy courses on AWS Cloud Practitioner through NLB udemy account or Work udemy account
-5. Do some mock-exam questions (e.g. AWS Certifiied Cloud Practitioner Brain Dumps etc)
+5. Do some mock-exam questions (e.g. AWS Certified Cloud Practitioner Brain Dumps etc)

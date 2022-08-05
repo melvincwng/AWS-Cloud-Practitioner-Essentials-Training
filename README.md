@@ -10,6 +10,13 @@ This README.md summarizes the resources that are used for the AWS Cloud Practiti
 4. https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials (Additional FREE training course on AWS Cloud Practitioner)
 5. https://amazon.qwiklabs.com/ (Additional Lab exercises)
 
+## Additional Resources (useful for preparing for the certification exam)
+1. https://aws.amazon.com/certification/certified-cloud-practitioner/
+2. https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+3. https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf
+4. https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-foundations
+5. https://aws.amazon.com/certification/faqs/
+
 ## Preparation for AWS Certified Cloud Practitioner Certification
 
 If in future, there are intentions to go for this professional certification, can follow this study plan:

@@ -27,3 +27,6 @@ If in future, there are intentions to go for this professional certification, ca
 4. Do some udemy courses on AWS Cloud Practitioner through NLB udemy account or Work udemy account
 5. Do some mock-exam questions (e.g. AWS Certified Cloud Practitioner Brain Dumps etc)
 6. Refer to 'Additional Resources' to prepare for the exam as well
+
+## Addendum
+The notes/resources stated here can be used to prepare you for the [AWS Cloud Practitioner Certification Exam](https://aws.amazon.com/certification/certified-cloud-practitioner/).
